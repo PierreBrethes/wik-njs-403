@@ -1,3 +1,5 @@
+https://travis-ci.org/PierreBrethes/wik-njs-403.svg?branch=master
+
 # WIK-NJS-403
 
 Starter for the tp
