@@ -1,4 +1,4 @@
-https://travis-ci.org/PierreBrethes/wik-njs-403.svg?branch=master
+![Build Status](https://travis-ci.org/PierreBrethes/wik-njs-403.svg?branch=master)
 
 # WIK-NJS-403
 
