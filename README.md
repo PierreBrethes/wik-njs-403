@@ -15,3 +15,5 @@ Starter for the tp
 ### Launch test
 
 `npm test`
+
+Paire programming with @Chris-47
