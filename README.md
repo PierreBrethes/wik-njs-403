@@ -1,5 +1,7 @@
 ![Build Status](https://travis-ci.org/PierreBrethes/wik-njs-403.svg?branch=master)
 
+[![Coverage Status](https://coveralls.io/repos/github/PierreBrethes/wik-njs-403/badge.svg?branch=master)](https://coveralls.io/github/PierreBrethes/wik-njs-403?branch=master)
+
 # WIK-NJS-403
 
 Starter for the tp
